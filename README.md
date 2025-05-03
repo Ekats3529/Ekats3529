@@ -3,7 +3,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekats3529&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![chart-bar](/assets/leetcode-total-info-circle.svg)
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Ekats&theme=1)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ekats3529?theme=dark&font=Baloo%202&ext=heatmap)
 
 <!--
 **Ekats3529/Ekats3529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
