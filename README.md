@@ -6,10 +6,10 @@
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="270em" width="500em" src="https://leetcard.jacoblin.cool/ekats3529?theme=dark&font=Baloo%202&ext=heatmap" />
-<img height="240em" src="https://raw.githubusercontent.com/ekats/cf-stats/master/output/light_card.svg" />
 </p>
 
 <!--
+<img height="240em" src="https://raw.githubusercontent.com/ekats/cf-stats/master/output/light_card.svg" />
 **Ekats3529/Ekats3529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
