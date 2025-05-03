@@ -5,9 +5,7 @@
 
 ## My Codeforces Stats
 
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Ekats&theme=1)
-
-Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
+![](https://raw.githubusercontent.com/Ekats/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ekats3529?theme=dark&font=Baloo%202&ext=heatmap)
 
