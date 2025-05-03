@@ -3,7 +3,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekats3529&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Codeforces Stats
+
 ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Ekats&theme=1)
+
+Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ekats3529?theme=dark&font=Baloo%202&ext=heatmap)
 
