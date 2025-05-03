@@ -6,7 +6,7 @@
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="270em" width="500em" src="https://leetcard.jacoblin.cool/ekats3529?theme=dark&font=Baloo%202&ext=heatmap" />
-<img height="240em" src="https://raw.githubusercontent.com/Ekats/cf-stats/master/output/light_card.svg" />
+<img height="240em" src="https://raw.githubusercontent.com/ekats/cf-stats/master/output/light_card.svg" />
 </p>
 
 <!--
