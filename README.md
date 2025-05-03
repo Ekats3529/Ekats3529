@@ -3,7 +3,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekats3529&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="270em" width="500em" src="https://leetcard.jacoblin.cool/ekats3529?theme=dark&font=Baloo%202&ext=heatmap" />
+</p>
 
 <!--
 
